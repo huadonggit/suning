@@ -1,0 +1,6 @@
+body,p,input,textarea,ul,li,dl,ol,dd,dt,form,h1,h2,h3,h4,h5,h6,pre{margin:0;padding:0;}
+b,em,strong,i,h1{font-weight:normal;font-style:normal;}
+img{border:0;}
+a{text-decoration:none;
+	font-family:"simsun";
+font-size:12px;}
